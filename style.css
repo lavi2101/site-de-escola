@@ -1,0 +1,60 @@
+#contact iframe
+{
+    width: 100%;
+}
+.viagem_mainDiv{
+
+    border: 1px solid lightgrey;
+    text-align: center;
+}
+.viagem_mainDiv img{
+
+    width: 70%;
+}
+.viagem_mainDiv h5 , .viagem_mainDiv p{
+
+    margin: 20px;
+}
+
+.img{
+
+    width: 20%;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.filmesHead{
+
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+background-color: slateblue;
+}
+.filmesHead i{
+
+    float: right;
+
+}
+.filmesText span{
+
+    color: cornflowerblue;
+}
+.filmesText{
+
+    text-align: center;
+}
+.img-respondive{
+
+    width: 400px;
+    height: 450px;
+}
+.livros
+{
+    margin-bottom: 20px;
+}
+#contato iframe
+{
+    width: 100%;
+}
